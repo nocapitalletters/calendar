@@ -1,7 +1,7 @@
 # Arkitektur
 
-!(public/Arkitektur.jpg)
+![arkitektur](public/Arkitektur.jpg)
 
 # GUI-design
 
-!(public/GUI_design.jpg)
+![gui](public/GUI_design.jpg)
